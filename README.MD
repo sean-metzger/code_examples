@@ -1,5 +1,3 @@
-implementations of GANs (hw3), VAEs (hw2) from my deep unsupervised learning course. 
-
-Also includes implementations of deep RL algorithms (policy gradients, Q learning) from my deep RL course. 
+implementations of several state of the art methods for GANS (e.g. CycleGan and BiGAN) and latent variable models (VQ-VAE).  
 
 I will include code from my papers once available.
